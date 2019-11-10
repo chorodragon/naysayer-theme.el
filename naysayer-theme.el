@@ -30,7 +30,7 @@
 
 (let ((background "#082628")
       (gutters    "#082628")
-      (gutter-fg  "#082628")
+      (gutter-fg  "#7a6e6e")
       (gutters-active "#082628")
       (builtin      "#ffffff")
       (selection  "#0000ff")
